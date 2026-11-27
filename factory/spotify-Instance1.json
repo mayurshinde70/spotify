@@ -1,0 +1,16 @@
+{
+	"name": "spotify-Instance1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55e6e0e7-f265-4cf5-a869-2ebf6f3972a2",
+		"tenantId": "cfc6acaa-b088-4060-be85-ea46f6bb50f9"
+	}
+}
